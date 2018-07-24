@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import './App.css';
 import PropTypes from 'prop-types';
 import { withStyles } from '@material-ui/core/styles';
 import AppMainMenu from './AppMainMenu'
