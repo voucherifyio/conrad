@@ -1,0 +1,22 @@
+{
+  "name": "conrad",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^1.2.3",
+    "@material-ui/icons": "^1.1.0",
+    "copy-to-clipboard": "^3.0.8",
+    "elasticlunr": "^0.9.5",
+    "load-script": "^1.0.0",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-scripts": "1.1.4",
+    "react-virtualized": "^9.20.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
